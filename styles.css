@@ -1,0 +1,64 @@
+body {
+    background-image: url('https://watermark.lovepik.com/photo/40011/2743.jpg_wh1200.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.VideoGame {
+    color: black;
+    text-align: center;
+
+    font-size: 50px;
+    background-color: #FFD700;
+
+}
+
+.Song {
+    background-color: #FFD700;
+    color: black;
+    text-align: center;
+    font-size: 50px;
+
+
+}
+
+.Movie {
+    color: black;
+    text-align: center;
+
+    font-size: 50px;
+    background-color: #FFD700;
+}
+
+.sport {
+    color: black;
+    text-align: center;
+
+    font-size: 50px;
+    background-color: #FFD700;
+
+}
+
+img {
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+a {
+    color: black;
+}
+
+p {
+    font-family: 'Marck Script', cursive;
+}
+
+h1 {
+    font-family: 'Faster One', cursive;
+}
+.nominesees{
+    font-family: 'IM Fell English', serif;
+}
